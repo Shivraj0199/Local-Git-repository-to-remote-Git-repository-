@@ -36,6 +36,6 @@ git commit -m "initial message"
 
 # Step 11: Pushes your code to the remote GitHub repo 
 
-git push -u origin master # push
+git push -u origin master
 
 
